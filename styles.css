@@ -1,0 +1,129 @@
+.tod{
+    height: 40%;
+    width: 15%;
+    float:left;
+}
+.nav ul li{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    float: right;
+    border-right: none;
+
+}
+.nav li a{
+    display: inline-block;
+    color: blue;
+    text-align: right;
+    text-decoration: none;
+    padding: 0px 20px 0px;
+    text-decoration: none;
+}
+.content{
+    text-align: center;
+    text-align-last:center;
+    text-align: left;
+    padding-top: 5%;
+    margin:0% auto;
+}
+
+.title{
+    color: rgb(91, 243, 91);
+    text-align-last:  center;
+    text-align: left;
+}
+.words{
+    padding-top: 0%;
+    text-align: center;
+}
+.logos{
+    width: 30%;
+    height: 30%;
+    padding: 10px 0px 10px;
+    margin: 0px;
+}
+.logo1{
+    width: 100px;
+    height: 100px;
+}
+.logo2{
+    width: 100px;
+    height: 100px;
+}
+.logo3{
+    width: 100px;
+    height: 100px;
+}
+.logo4{
+    width: 100px;
+    height: 100px;
+}
+.percent{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(128, 128, 222);
+    padding: 10px;
+    margin-left: 1em;
+    border: 2px solid rgb(217, 97, 97);
+
+}
+.add{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(105, 220, 105);
+    padding: 10px;
+    margin-left: 1em;
+    border: 2px solid rgb(207, 109, 109);
+}
+.number{
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: palevioletred;
+    padding: 10px;
+    margin-left: 1em;
+    border: 2px solid black;
+
+}
+.Numbers{
+    display: flex;
+    margin-left: 65px;
+    justify-content: right;
+}
+.texts{
+    padding: 0% 2%;
+    margin: 0%;
+}
+.button1{
+    background-color: blue;
+    color:white;
+}
+.line{
+    display: flex;
+    justify-content: end;
+}
+.hr0{
+    padding: 3%;
+    border-top: 3px solid blue;
+}
+.hr1{
+    border-top: solid 3px orangered;
+    padding: 2%;
+
+}
+.hr2{
+    border-top: solid 3px red;
+    padding: 2%;
+}
+.box{
+    background-color: rgb(17, 17, 216);
+    color: white;
+}
+
+
+
+
+
